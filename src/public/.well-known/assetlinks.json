@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.crush_cost",
+      "sha256_cert_fingerprints": [
+        "3E:82:A1:43:57:4A:25:DC:BD:58:85:83:A8:58:7A:F1:98:9B:32:C4:26:26:42:79:4C:9C:99:5F:BC:C4:3B:9F"
+      ]
+    }
+  }
+]
